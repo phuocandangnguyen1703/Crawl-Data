@@ -1,0 +1,610 @@
+STT,MainType,Detail,Detail2,Value,Group
+1,Internet,http,Http,4,FrontEnd
+2,Internet,dns,Dns,4,FrontEnd
+3,Internet,internet,Internet,4,FrontEnd
+4,Internet,browsers,Browsers,4,FrontEnd
+5,Internet,hosting,Hosting,4,FrontEnd
+6,Internet,domain,Domain,4,FrontEnd
+7,HTML,seo,Seo,2,FrontEnd
+8,HTML,accessibility,Accessibility,2,FrontEnd
+9,HTML,html5,Html5,4,FrontEnd
+10,HTML,forms-validations,Forms Validations,4,FrontEnd
+11,HTML,semantic,Semantic,2,FrontEnd
+12,CSS,css,Css,4,FrontEnd
+13,CSS,making-layouts,Making Layouts,4,FrontEnd
+14,CSS,responsive-web-design,Responsive Web Design,4,FrontEnd
+15,JavaScript,javascript,Javascript,4,FrontEnd
+16,JavaScript,dom,Dom,4,FrontEnd
+17,JavaScript,ajax,Ajax,4,FrontEnd
+18,JavaScript,es6+,Es6+,4,FrontEnd
+19,JavaScript,fetch-api,Fetch Api,4,FrontEnd
+20,UI/UX Tool,azure,Azure,3,FrontEnd
+21,UI/UX Tool,figma,Figma,3,FrontEnd
+22,Version Control Systems,git,Git,4,FrontEnd
+23,Version Control Systems,github,Github,4,FrontEnd
+24,Version Control Systems,bitbucket,Bitbucket,3,FrontEnd
+25,Version Control Systems,gitlab,Gitlab,3,FrontEnd
+26,Basic Web Security Knowledge,https,Https,2,FrontEnd
+27,Basic Web Security Knowledge,cors,Cors,2,FrontEnd
+28,Basic Web Security Knowledge,content-security-policy,Content Security Policy,2,FrontEnd
+29,Basic Web Security Knowledge,owasp-security-risks,Owasp Security Risks,2,FrontEnd
+30,Package Managers,npm,Npm,4,FrontEnd
+31,Package Managers,yarn,Yarn,2,FrontEnd
+32,Package Managers,pnpm,Pnpm,2,FrontEnd
+33,CSS Architecture,bem,Bem,2,FrontEnd
+34,CSS Preprocessors,sass,Sass,2,FrontEnd
+35,CSS Preprocessors,postcss,Postcss,2,FrontEnd
+36,Linters formatters,prettier,Prettier,2,FrontEnd
+37,Linters formatters,eslint,Eslint,2,FrontEnd
+38,Task Runners,npm-script,Npm Script,2,FrontEnd
+39,Task Runners,yarn-script,Yarn Script,2,FrontEnd
+40,Module Bundlers,vite,Vite,4,FrontEnd
+41,Module Bundlers,esbuild,Esbuild,4,FrontEnd
+42,Module Bundlers,webpack,Webpack,3,FrontEnd
+43,Module Bundlers,rollup,Rollup,3,FrontEnd
+44,Module Bundlers,parcel,Parcel,3,FrontEnd
+45,Framework,react,React,4,FrontEnd
+46,Framework,angular,Angular,3,FrontEnd
+47,Framework,vuejs,VueJs,3,FrontEnd
+48,Framework,svelte,Svelte,3,FrontEnd
+49,Framework,solidjs,SolidJs,3,FrontEnd
+50,Modern CSS,styled-components,Styled Components,4,FrontEnd
+51,Modern CSS,css-modules,Css Modules,4,FrontEnd
+52,Modern CSS,styled-jsx,Styled Jsx,3,FrontEnd
+53,Modern CSS,emotion,Emotion,3,FrontEnd
+54,CSS frameworks,bootstrap,Bootstrap,4,FrontEnd
+55,CSS frameworks,bulma,Bulma,2,FrontEnd
+56,CSS frameworks,mantine,Mantine,3,FrontEnd
+57,CSS frameworks,tailwind,Tailwind,4,FrontEnd
+58,CSS frameworks,charkra-ui,Charkra UI,3,FrontEnd
+59,CSS frameworks,material-ui,Material UI,3,FrontEnd
+60,CSS frameworks,daisy-ui,Daisy UI,3,FrontEnd
+61,CSS frameworks,radix-ui,Radix UI,3,FrontEnd
+62,Authentication Strategies,jwt,Jwt,4,FrontEnd
+63,Authentication Strategies,oauth,OAuth,3,FrontEnd
+64,Authentication Strategies,sso,Sso,3,FrontEnd
+65,Web Components,html-templates,Html Templates,2,FrontEnd
+66,Web Components,custom-elements,Custom Elements,2,FrontEnd
+67,Web Components,shadow-dom,Shadow Dom,2,FrontEnd
+68,Type Checkers,typescript,Typescript,4,FrontEnd
+69,Progressive Web App,web-storage-api,Web Storage Api,2,FrontEnd
+70,Progressive Web App,web-sockets,Web Sockets,2,FrontEnd
+71,Progressive Web App,server-sent-events,Server Sent Events,2,FrontEnd
+72,Progressive Web App,service-workers,Service Workers,2,FrontEnd
+73,Progressive Web App,location-api,Location Api,2,FrontEnd
+74,Progressive Web App,notifications-api,Notifications Api,2,FrontEnd
+75,Progressive Web App,device-orientation-api,Device Orientation Api,2,FrontEnd
+76,Progressive Web App,credentials-api,Credentials Api,2,FrontEnd
+77,Progressive Web App,payment-api,Payment Api,2,FrontEnd
+78,Progressive Web App,prpl-pattern,Prpl Pattern,2,FrontEnd
+79,Progressive Web App,rail-model,Rail Model,2,FrontEnd
+80,Progressive Web App,performance-metrics,Performance Metrics,2,FrontEnd
+81,Progressive Web App,lighthouse,Lighthouse,2,FrontEnd
+82,Progressive Web App,browser-dev-tools,Browser Dev Tools,2,FrontEnd
+83,Server-side rendering,remix,Remix,4,FrontEnd
+84,Server-side rendering,nextjs,NextJs,4,FrontEnd
+85,Server-side rendering,angular-universal,Angular Universal,3,FrontEnd
+86,Server-side rendering,nuxtjs,NuxtJs,3,FrontEnd
+87,Server-side rendering,svelte-kit,Svelte Kit,3,FrontEnd
+88,Server-side rendering,react,React,4,FrontEnd
+89,Server-side rendering,angular,Angular,3,FrontEnd
+90,Server-side rendering,vuejs,VueJs,3,FrontEnd
+91,Server-side rendering,svelte,Svelte,3,FrontEnd
+92,Static Site Generators,eleventy,Eleventy,4,FrontEnd
+93,Static Site Generators,nextjs,NextJs,3,FrontEnd
+94,Static Site Generators,gatsby,Gatsby,3,FrontEnd
+95,Static Site Generators,vuepress,Vuepress,3,FrontEnd
+96,Static Site Generators,astro,Astro,4,FrontEnd
+97,Static Site Generators,jekyll,Jekyll,3,FrontEnd
+98,Static Site Generators,hugo,Hugo,3,FrontEnd
+99,Static Site Generators,nuxtjs,Nuxtjs,3,FrontEnd
+100,Static Site Generators,remix,Remix,3,FrontEnd
+101,Graphql,apollo,Apollo,4,FrontEnd
+102,Graphql,relay-modern,Relay Modern,3,FrontEnd
+103,Mobile applications,nativescript,Nativescript,2,FrontEnd
+104,Mobile applications,ionic,Ionic,2,FrontEnd
+105,Mobile applications,flutter,Flutter,4,FrontEnd
+106,Mobile applications,react-native,React Native,4,FrontEnd
+107,Desktop Applications in JavaScript,electron,Electron,4,FrontEnd
+108,Desktop Applications in JavaScript,tauri,Tauri,3,FrontEnd
+109,Desktop Applications in JavaScript,flutter,Flutter,3,FrontEnd
+110,Internet,http,Http,4,BackEnd
+111,Internet,dns,Dns,4,BackEnd
+112,Internet,internet,Internet,4,BackEnd
+113,Internet,browsers,Browsers,4,BackEnd
+114,Internet,hosting,Hosting,4,BackEnd
+115,Internet,domain,Domain,4,BackEnd
+116,Learn a Language,rust,Rust,3,BackEnd
+117,Learn a Language,go,Go,3,BackEnd
+118,Learn a Language,python,Python,3,BackEnd
+119,Learn a Language,ruby,Ruby,3,BackEnd
+120,Learn a Language,c#,C#,3,BackEnd
+121,Learn a Language,java,Java,3,BackEnd
+122,Learn a Language,php,Php,3,BackEnd
+123,Learn a Language,javascript,Javascript,3,BackEnd
+124,Version Control Systems,git,Git,4,BackEnd
+125,Repo Hosting Services,github,GitHub,4,BackEnd
+126,Repo Hosting Services,gitlap,GitLap,3,BackEnd
+127,Repo Hosting Services,bitbucket,Bitbucket,3,BackEnd
+128,OS and General Knowledge,terminal-usage,Terminal usage,4,BackEnd
+129,OS and General Knowledge,operating-systems,Operating Systems,4,BackEnd
+130,OS and General Knowledge,process-management,Process Management,4,BackEnd
+131,OS and General Knowledge,threads-and-concurrency,Threads and Concurrency,4,BackEnd
+132,OS and General Knowledge,basic-terminal-commands,Basic Terminal Commands,4,BackEnd
+133,OS and General Knowledge,memory-management,Memory Management,4,BackEnd
+134,OS and General Knowledge,interprocess-communication,Interprocess Communication,4,BackEnd
+135,OS and General Knowledge,i/o-management,I/O Management,4,BackEnd
+136,OS and General Knowledge,posix-basics,POSIX Basics,4,BackEnd
+137,OS and General Knowledge,basic-networking-concepts,Basic Networking Concepts,4,BackEnd
+138,Relational Databases,postgresql,PostgreSQL,4,BackEnd
+139,Relational Databases,mysql,MySQL,3,BackEnd
+140,Relational Databases,mssql,MS SQL,3,BackEnd
+141,Relational Databases,oracle,Oracle,3,BackEnd
+142,Relational Databases,mariadb,MariaDB,3,BackEnd
+143,No SQL,mongodb,MongoDB,4,BackEnd
+144,No SQL,couchdb,CouchDB,3,BackEnd
+145,No SQL,influxdb,InfluxDB,4,BackEnd
+146,No SQL,timescale,TimeScale,3,BackEnd
+147,No SQL,firebase,Firebase,4,BackEnd
+148,No SQL,rethinkdb,RethinkDB,3,BackEnd
+149,No SQL,cassandra,Cassandra,4,BackEnd
+150,No SQL,hbase,Hbase,3,BackEnd
+151,No SQL,redis,Redis,4,BackEnd
+152,No SQL,dynamodb,DynamoDB,3,BackEnd
+153,No SQL,neo4j,Neo4j,3,BackEnd
+154,More Databases,orms,ORMs,4,BackEnd
+155,More Databases,acid,ACID,4,BackEnd
+156,More Databases,transactions,Transactions,4,BackEnd
+157,More Databases,n+1-problem,N+1 problem,4,BackEnd
+158,More Databases,normalization,Normalization,4,BackEnd
+159,More Databases,failure-modes,Failure Modes,4,BackEnd
+160,More Databases,profiling-performance,Profiling Performance,4,BackEnd
+161,Scaling Databases,data-replication,Data Replication,3,BackEnd
+162,Scaling Databases,sharding-strategies,Sharding strategies,3,BackEnd
+163,Scaling Databases,cap-theorem,CAP Theorem,3,BackEnd
+164,Scaling Databases,database-indexes,Database Indexes,4,BackEnd
+165,APIs,rest,REST,4,BackEnd
+166,APIs,json-apis,JSON APIs,4,BackEnd
+167,APIs,grpc,gRPC,4,BackEnd
+168,APIs,soap,SOAP,2,BackEnd
+169,APIs,graphql,GraphQL,4,BackEnd
+170,APIs,hateoas,Hateoas,2,BackEnd
+171,APIs,api,API,2,BackEnd
+172,APIs,authentication,Authentication,4,BackEnd
+173,Authentication,oauth,Oauth,4,BackEnd
+174,Authentication,basic-authentication,Basic authentication,4,BackEnd
+175,Authentication,token-authentication,Token authentication,4,BackEnd
+176,Authentication,jwt,JWT,4,BackEnd
+177,Authentication,cookie-based-authentication,Cookie-Based Authentication,3,BackEnd
+178,Authentication,saml,Saml,3,BackEnd
+179,Authentication,openid,OpenID,3,BackEnd
+180,Client Side Caching,http-caching,Http Caching,4,BackEnd
+181,Server side Caching,redis,Redis,4,BackEnd
+182,Server side Caching,memcached,Memcached,3,BackEnd
+183,CDN Caching,cdn,cdn,4,BackEnd
+184,API Security,https,HTTPS,4,BackEnd
+185,API Security,content-security-policy,Content Security Policy,4,BackEnd
+186,API Security,cors,Cors,4,BackEnd
+187,API Security,ssl/tls,SSL/TLS,4,BackEnd
+188,API Security,csp,CSP,4,BackEnd
+189,API Security,server-security,Server Security,4,BackEnd
+190,API Security,owasp-security-risks,OWASP Security Risks,4,BackEnd
+191,Web Security,md5,MD5,4,BackEnd
+192,Web Security,sha-family,SHA family,4,BackEnd
+193,Web Security,scrypt,Scrypt,4,BackEnd
+194,Web Security,bcrypt,Bcrypt,4,BackEnd
+195,Testing,Testing,Testing,4,BackEnd
+196,Testing,integration-testing,Integration Testing,4,BackEnd
+197,Testing,integration-testing,Integration Testing,4,BackEnd
+198,Testing,functional-testing,Functional Testing,4,BackEnd
+199,CI/CD,ci/cd,CI/CD,4,BackEnd
+200,Software Design and Architecture,software-design-and-architecture,Software Design and Architecture,4,BackEnd
+201,Design and development principles,test-driven-development,Test Driven Development,4,BackEnd
+202,Design and development principles,domain-driven-design,Domain-Driven Design,4,BackEnd
+203,Design and development principles,design-patterns,Design Patterns,4,BackEnd
+204,Design and development principles,cqrs,CQRS,4,BackEnd
+205,Design and development principles,event-sourcing,Event Sourcing,4,BackEnd
+206,Architectural Patterns,monolithic-apps,Monolithic Apps,4,BackEnd
+207,Architectural Patterns,microservices,Microservices,4,BackEnd
+208,Architectural Patterns,soa,SOA,4,BackEnd
+209,Architectural Patterns,serverless,Serverless,4,BackEnd
+210,Architectural Patterns,service-mesh,Service Mesh,4,BackEnd
+211,Architectural Patterns,twelve-factor-apps,Twelve-Factor Apps,4,BackEnd
+212,Search engines,elasticsearch,Elasticsearch,4,BackEnd
+213,Search engines,solr,Solr,3,BackEnd
+214,Message Brokers,rabbitmq,RabbitMQ,4,BackEnd
+215,Message Brokers,kafka,Kafka,3,BackEnd
+216,Containerization vs Virtualization,docker,Docker,4,BackEnd
+217,Containerization vs Virtualization,lxc,LXC,3,BackEnd
+218,Containerization vs Virtualization,kubernetes,Kubernetes,4,BackEnd
+219,Graphql,apollo,Apollo,4,BackEnd
+220,Graphql,relay-modern,Relay Modern,3,BackEnd
+221,Web sockets,web-sockets,Web sockets,4,BackEnd
+222,Server Sent Events,server-sent-envents,Server Sent Events,4,BackEnd
+223,Web Servers,nginx,Nginx,4,BackEnd
+224,Web Servers,apache,Apache,3,BackEnd
+225,Web Servers,caddy,Caddy,3,BackEnd
+226,Web Servers,ms-iis,MS IIS,3,BackEnd
+227,Building for Scale,instrumentation,Instrumentation,4,BackEnd
+228,Building for Scale,monitoring,Monitoring,4,BackEnd
+229,Building for Scale,telemetry,Telemetry,4,BackEnd
+230,Building for Scale,graceful-degradation,Graceful Degradation,4,BackEnd
+231,Building for Scale,throttling,Throttling,4,BackEnd
+232,Building for Scale,backpressure,Backpressure,4,BackEnd
+233,Building for Scale,loadshifting,LoadShifting,4,BackEnd
+234,Building for Scale,circuit-breaker,Circuit Breaker,4,BackEnd
+235,Building for Scale,migration-strategies,Migration Strategies,4,BackEnd
+236,Building for Scale,horizontal/vertical-scaling,Horizontal/Vertical Scaling,4,BackEnd
+237,Building for Scale,observability,Observability,4,BackEnd
+238,Learn a Language,python,Python,4,DevOps
+239,Learn a Language,ruby,Ruby,3,DevOps
+240,Learn a Language,javascript,JavaScript,3,DevOps
+241,Learn a Language,notejs,NoteJs,3,DevOps
+242,Learn a Language,go,Go,4,DevOps
+243,Learn a Language,rust,Rust,3,DevOps
+244,Operating System Concepts,networking,Networking,4,DevOps
+245,Operating System Concepts,posix,POSIX,4,DevOps
+246,Operating System Concepts,i/o-management,I/O Management,4,DevOps
+247,Operating System Concepts,virtualization,Virtualization,4,DevOps
+248,Operating System Concepts,memory-management,Memory Management,4,DevOps
+249,Operating System Concepts,file-system,File System,4,DevOps
+250,Operating System Concepts,sockets,Sockets,4,DevOps
+251,Operating System Concepts,initd,init.d,4,DevOps
+252,Operating System Concepts,systemd,systemd,4,DevOps
+253,Operating System Concepts,thread-in-os,Thread in OS,4,DevOps
+254,Operating System Concepts,processes,Processes,4,DevOps
+255,Managing Servers,managing-servers,Managing Servers,4,DevOps
+256,Operating system,windows,Windows,4,DevOps
+257,Operating system,linux,Linux,4,DevOps
+258,Operating system,ubuntu,Ubuntu,4,DevOps
+259,Operating system,debian,Debian,4,DevOps
+260,Operating system,opensuse-linux,openSUSE Linux,3,DevOps
+261,Operating system,rhel,RHEL ,4,DevOps
+262,Operating system,derivatives,Derivatives,4,DevOps
+263,Operating system,unix,Unix,4,DevOps
+264,Operating system,freebsd,FreeBSD,4,DevOps
+265,Operating system,openbsd,OpenBSD,3,DevOps
+266,Operating system,netbsd,NetBSD,3,DevOps
+267,Live in terminal,bash-scripting,Bash scripting,4,DevOps
+268,Live in terminal,vim,Vim,4,DevOps
+269,Live in terminal,nano,Nano,4,DevOps
+270,Live in terminal,powershell,PowerShell,4,DevOps
+271,Live in terminal,emacs,Emacs,4,DevOps
+272,Live in terminal,gcc,Gcc,2,DevOps
+273,Live in terminal,terminal-multiplexers,Terminal multiplexers,2,DevOps
+274,Live in terminal,process-monitoring,Process Monitoring,4,DevOps
+275,Live in terminal,system-performance,System Performance,4,DevOps
+276,Live in terminal,network-tools,Network Tools,4,DevOps
+277,Live in terminal,text-manipulation-tools,Text Manipulation Tools,4,DevOps
+278,Networking Protocols,dns,DNS,1,DevOps
+279,Networking Protocols,osi-model,OSI Model,1,DevOps
+280,Networking Protocols,networking-protocols,Networking Protocols,4,DevOps
+281,Networking Protocols,http,Http,4,DevOps
+282,Networking Protocols,https,Https,4,DevOps
+283,Networking Protocols,ftp,FTP,4,DevOps
+284,Networking Protocols,sftp,SFTP,4,DevOps
+285,Networking Protocols,ssl/tsl,SSL/TSL,4,DevOps
+286,Networking Protocols,ssh,SSH,4,DevOps
+287,Networking Protocols,port-forwarding,Port Forwarding,4,DevOps
+288,Networking Protocols,emails,Emails,2,DevOps
+289,Networking Protocols,smtp,SMTP,1,DevOps
+290,Networking Protocols,imaps,IMAPS,1,DevOps
+291,Networking Protocols,pop3s,POP3S,1,DevOps
+292,Networking Protocols,dmarc,DMARC,1,DevOps
+293,Networking Protocols,spf,SPF,1,DevOps
+294,Networking Protocols,domain-keys,Domain Keys,1,DevOps
+295, Proxy,reverse-proxy,Reverse Proxy,4,DevOps
+296, Proxy,forward-proxy,Forward Proxy,4,DevOps
+297, Proxy,caching-server,Caching server,4,DevOps
+298, Proxy,load-balancer,Load Balancer,4,DevOps
+299,Web Server,web-server,Web Server,4,DevOps
+300,Web Server,nginx,Nginx,4,DevOps
+301,Web Server,apache,Apache,3,DevOps
+302,Web Server,tomcat,Tomcat,3,DevOps
+303,Web Server,ms-iis,MS IIS,3,DevOps
+304,Containers,docker,Docker,4,DevOps
+305,Containers,lxc,LXC,3,DevOps
+306,GitOps,gitops,GitOps,4,DevOps
+307,GitOps,argocd,ArgoCD,4,DevOps
+308,GitOps,fluxcd,FluxCD,3,DevOps
+309,Service Mesh,istio,Istio,4,DevOps
+310,Service Mesh,consul,Consul,4,DevOps
+311,Service Mesh,linkerd,Linkerd,3,DevOps
+312,Service Mesh,envoy,Envoy,3,DevOps
+313,Service Mesh,service-mesh,Service Mesh,4,DevOps
+314,Secret Management,secret-management,Secret Management,4,DevOps
+315,Secret Management,vault,Vault,4,DevOps
+316,Secret Management,sops,SOPS,3,DevOps
+317,Secret Management,sealed-secrets,Sealed Secrets,3,DevOps
+318,Secret Management,cloud-specific-tools,Cloud Specific Tools,3,DevOps
+319,Container Orchestration,kubernetes,Kubernetes,4,DevOps
+320,Container Orchestration,docker-swarm,Docker Swarm,3,DevOps
+321,Container Orchestration,nomad,Nomad,3,DevOps
+322,Configuration Management,configuration-management,Configuration Management,4,DevOps
+323,Configuration Management,ansible,Ansible,4,DevOps
+324,Configuration Management,chef,Chef,3,DevOps
+325,Configuration Management,puppet,Puppet,3,DevOps
+326,Infrastructure Provisioning,infrastructure-provisioning,Infrastructure Provisioning,4,DevOps
+327,Infrastructure Provisioning,terraform,Terraform,4,DevOps
+328,Infrastructure Provisioning,aws-cdk,AWS CDK,3,DevOps
+329,Infrastructure Provisioning,cloudformation,CloudFormation,3,DevOps
+330,Infrastructure Provisioning,pulumi,Pulumi,3,DevOps
+331,CI/CD,ci/cd,CI/CD,4,DevOps
+332,CI/CD,gitlab-ci,GitLab CI,4,DevOps
+333,CI/CD,jenkins,Jenkins,4,DevOps
+334,CI/CD,github-actions,GitHub Actions,4,DevOps
+335,CI/CD,travis-ci,Travis CI,3,DevOps
+336,CI/CD,teamcity,TeamCity,3,DevOps
+337,CI/CD,azure-devops,Azure DevOps,3,DevOps
+338,CI/CD,circleci,CircleCI,3,DevOps
+339,CI/CD,drone,Drone,3,DevOps
+340,Monitoring,monitoring,Monitoring,4,DevOps
+341,Infrastructure Monitoring,infrastructure-monitoring,Infrastructure Monitoring,4,DevOps
+342,Infrastructure Monitoring,prometheus,Prometheus,4,DevOps
+343,Infrastructure Monitoring,nagios,Nagios,3,DevOps
+344,Infrastructure Monitoring,grafana,Grafana,3,DevOps
+345,Infrastructure Monitoring,zabbix,Zabbix,3,DevOps
+346,Infrastructure Monitoring,monit,Monit,3,DevOps
+347,Infrastructure Monitoring,datadog,Datadog,4,DevOps
+348,Application Monitoring,application-monitoring,Application Monitoring,4,DevOps
+349,Application Monitoring,jaeger,Jaeger,4,DevOps
+350,Application Monitoring,relic,Relic,4,DevOps
+351,Application Monitoring,appdynamics,AppDynamics,3,DevOps
+352,Application Monitoring,instana,Instana,3,DevOps
+353,Application Monitoring,opentelemetry,OpenTelemetry,3,DevOps
+354,Logs Management,logs-management,Logs Management,4,DevOps
+355,Logs Management,elastic-stack,Elastic Stack,4,DevOps
+356,Logs Management,graylog,Graylog,3,DevOps
+357,Logs Management,splunk,Splunk,3,DevOps
+358,Logs Management,papertrail,Papertrail,3,DevOps
+359,Logs Management,loki,Loki,4,DevOps
+360,Cloud Providers,cloud-providers,Cloud Providers,4,DevOps
+361,Cloud Providers,aws,AWS,4,DevOps
+362,Cloud Providers,google-cloud,Google Cloud,4,DevOps
+363,Cloud Providers,digitalocean,DigitalOcean,4,DevOps
+364,Cloud Providers,alibaba-cloud,Alibaba Cloud,3,DevOps
+365,Cloud Providers,azure,Azure,3,DevOps
+366,Cloud Providers,linode,Linode,3,DevOps
+367,Cloud Providers,heroku,Heroku,3,DevOps
+368,Cloud Providers,vultr,Vultr,3,DevOps
+369,Cloud Design Patterns,cloud-design-patterns,Cloud Design Patterns,4,DevOps
+370,Cloud Design Patterns,availability,Availability,1,DevOps
+371,Cloud Design Patterns,data-management,Data Management,1,DevOps
+372,Cloud Design Patterns,design-and-implementation,Design and implementation,1,DevOps
+373,Cloud Design Patterns,management-and-monitoring,Management and Monitoring,1,DevOps
+374,Learn a Language,java,Java,4,Android
+375,Learn a Language,kotlin,Kotlin,2,Android
+376,The Fundamentals,anroid-studio,Anroid Studio,3,Android
+377,The Fundamentals,gradle,Gradle,4,Android
+378,The Fundamentals,algorithms-and-data-structures,Algorithms and Data Structures,4,Android
+379,The Fundamentals,oop,OOP,4,Android
+380,Version Control Systems,git,Git,4,Android
+381,Repo Hosting Services,github,GitHub,4,Android
+382,Repo Hosting Services,gitlap,GitLap,3,Android
+383,Repo Hosting Services,bitbucket,Bitbucket,3,Android
+384,Building an Application,activities,Activities,4,Android
+385,Building an Application,activity-lifecycles,Activity Lifecycles,3,Android
+386,Building an Application,fragments,Fragments,4,Android
+387,Building an Application,android-debugger,Android Debugger,3,Android
+388,Building an Application,components,Components,3,Android
+389,Building an Application,content-providers,Content Providers,3,Android
+390,Building an Application,handling-app-configurations,Handling App Configurations,3,Android
+391,Building an Application,intents,Intents,3,Android
+392,Building an Application,3rd-party-libraries,3rd Party Libraries,3,Android
+393,Multithreading,multithreading,Multithreading,3,Android
+394,Security,security,Security,2,Android
+395,Components and their Usage,room,Room,2,Android
+396,Components and their Usage,navigation,Navigation,3,Android
+397,Components and their Usage,work-manager,Work Manager,2,Android
+398,Components and their Usage,live-data,Live Data,2,Android
+399,Components and their Usage,data-binding,Data Binding,2,Android
+400,Concurrency,rxjava,RxJava,3,Android
+401,Concurrency,coroutines,Coroutines,2,Android
+402,Concurrency,rxkotling,RxKotling,4,Android
+403,Testing,testing,Testing,4,Android
+404,Testing,junit,Junit,3,Android
+405,Testing,espresso,Espresso,3,Android
+406,Testing,dagger,Dagger,3,Android
+407,Testing,koin,Koin,2,Android
+408,Deployment,appstore,Appstore,4,Android
+409,Deployment,playstore,Playstore,4,Android
+410,Deployment,guidelines-and-protocols,Guidelines and Protocols,4,Android
+411,Dart Basics,dart,Dart,4,Flutter
+412,Dart Basics,dartpad,DartPad,4,Flutter
+413,Dart Basics,variables,Variables,4,Flutter
+414,Dart Basics,built-in-types,Built-in Types,4,Flutter
+415,Dart Basics,functions,Functions,4,Flutter
+416,Dart Basics,operators,Operators,4,Flutter
+417,Dart Basics,control-flow-statements,Control Flow Statements,4,Flutter
+418,Setup Development Environment,flutter-cli,Flutter CLI,4,Flutter
+419,Setup Development Environment,vs-code,VS Code,4,Flutter
+420,Setup Development Environment,android-studio,Android Studio,3,Flutter
+421,Setup Development Environment,intellij-idea,IntelliJ IDEA,3,Flutter
+422,Setup Development Environment,fvm,FVM ,4,Flutter
+423,Widgets,inherited-widgets,Inherited Widgets,4,Flutter
+424,Widgets,stateless-widgets,Stateless Widgets,4,Flutter
+425,Widgets,stateful-widgets,Stateful widgets,4,Flutter
+426,Widgets,styled-widgets,Styled Widgets,4,Flutter
+427,Widgets,material-widgets,Material Widgets,4,Flutter
+428,Widgets,cupertino-widgets,Cupertino widgets,3,Flutter
+429,Working with Assets,fonts,Fonts,4,Flutter
+430,Working with Assets,images,Images,3,Flutter
+431,Working with Assets,other-file-types,Other File Types,3,Flutter
+432,Version Control Systems,git,Git,4,Flutter
+433,Repo Hosting Services,github,GitHub,4,Flutter
+434,Repo Hosting Services,gitlap,GitLap,3,Flutter
+435,Repo Hosting Services,bitbucket,Bitbucket,3,Flutter
+436,Design Principles,design-principles,Design Principles,4,Flutter
+437,Design Principles,dependency-injection,Dependency Injection,4,Flutter
+438,Design Principles,design-patterns,Design Patterns,4,Flutter
+439,Design Principles,solid-principles,SOLID Principles,4,Flutter
+440,Design Principles,oop,OOP,4,Flutter
+441,Package Manager,pub-dev,Pub dev,4,Flutter
+442,Package Manager,flutter-pub,Flutter pub,4,Flutter
+443,Package Manager,dart-pub,Dart pub,4,Flutter
+444,APIs,api,Api,4,Flutter
+445,APIs,json,JSON,4,Flutter
+446,APIs,web-sockets,Web Sockets,4,Flutter
+447,APIs,graphql,GraphQL,4,Flutter
+448,APIs,restful,RESTful,4,Flutter
+449,Storage,sqlite,SQLite,3,Flutter
+450,Storage,shared-preferences,Shared Preferences,3,Flutter
+451,Storage,firebase,Firebase,3,Flutter
+452,Storage,authentication,Authentication,4,Flutter
+453,Storage,storage,Storage,4,Flutter
+454,Storage,firestore,Firestore,4,Flutter
+455,Storage,push-notifications,Push Notifications,4,Flutter
+456,Storage,remote-config,Remote Config,4,Flutter
+457,Storage,cloud-functions,Cloud Functions,4,Flutter
+458,Advanced Dart,core-libraries,Core Libraries,4,Flutter
+459,Advanced Dart,streams,Streams,4,Flutter
+460,Advanced Dart,futures,Futures,4,Flutter
+461,Advanced Dart,lists,Lists,4,Flutter
+462,Advanced Dart,collections,Collections,4,Flutter
+463,Advanced Dart,lambdas,Lambdas,4,Flutter
+464,Advanced Dart,functional-programming,Functional Programming,4,Flutter
+465,Advanced Dart,isolates,Isolates,4,Flutter
+466,Advanced Dart,async-await,Async Await,4,Flutter
+467,State Management,redux,ReduX,3,Flutter
+468,State Management,value-notifier,Value Notifier,4,Flutter
+469,State Management,change-notifier,Change Notifier,4,Flutter
+470,State Management,riverpod,Riverpod,4,Flutter
+471,State Management,bloc,BloC,3,Flutter
+472,State Management,provider,Provider,3,Flutter
+473,Reactive Programming,rxdart,RxDart,4,Flutter
+474,Animations,animations,Animations,4,Flutter
+475,Animations,curved-animations,Curved Animations,4,Flutter
+476,Animations,hero,Hero,4,Flutter
+477,Animations,opacity,Opacity,4,Flutter
+478,Animations,animation-controller,Animation Controller,4,Flutter
+479,Animations,animated-builder,Animated Builder,4,Flutter
+480,Animations,animated-widget,Animated Widget,4,Flutter
+481,Testing,testing,Testing,4,Flutter
+482,Testing,unit-testing,Unit Testing,4,Flutter
+483,Testing,widget-testing,Widget Testing,4,Flutter
+484,Testing,integration-testing,Integration Testing,4,Flutter
+485,Testing,tdd,TDD,2,Flutter
+486,Testing,bdd,BDD,2,Flutter
+487,Dev Tools,flutter-inspector,Flutter Inspector,4,Flutter
+488,Dev Tools,flutter-outline,Flutter Outline,4,Flutter
+489,Dev Tools,memory-allocation,Memory Allocation,3,Flutter
+490,Flutter Internals,render-objects,Render Objects,4,Flutter
+491,Flutter Internals,immutability,Immutability,4,Flutter
+492,Flutter Internals,three-trees,Three Trees,4,Flutter
+493,CI/CD,ci/cd,CI/CD,4,Flutter
+494,CI/CD,fast-lane,Fast lane,3,Flutter
+495,CI/CD,codemagic,Codemagic,2,Flutter
+496,CI/CD,bitrise,Bitrise,4,Flutter
+497,CI/CD,github-actions,Github Actions,4,Flutter
+498,CI/CD,firebase-app-distribution,Firebase App Distribution,4,Flutter
+499,Analytics,analytics,Analytics,4,Flutter
+500,Analytics,segment,Segment,3,Flutter
+501,Analytics,mixpanel,Mixpanel,3,Flutter
+502,Analytics,firebase-analytics,Firebase Analytics,3,Flutter
+503,Analytics,google-analytics,Google Analytics,3,Flutter
+504,Deployment,appstore,Appstore,4,Flutter
+505,Deployment,playstore,Playstore,4,Flutter
+506,Deployment,guidelines-and-protocols,Guidelines and Protocols,4,Flutter
+507,Blockchain,blockchain,Blockchain,4,BlockChain
+508,Blockchain,decentralization,Decentralization,4,BlockChain
+509,Blockchain,crypto,Crypto,4,BlockChain
+510,Blockchain,blockchain-structure,Blockchain Structure,4,BlockChain
+511,Blockchain,blockchain-operations,Blockchain Operations,4,BlockChain
+512,Blockchain,blockchain-applications,Blockchain applications,4,BlockChain
+513,Blockchain general knowledge,blockchain-storage,Blockchain Storage,4,BlockChain
+514,Blockchain general knowledge,mining-and-incentive-models,Mining and incentive models,4,BlockChain
+515,Blockchain general knowledge,trust,Trust,4,BlockChain
+516,Blockchain general knowledge,decentralization,Decentralization,4,BlockChain
+517,Blockchain general knowledge,blockchain-fork,Blockchain fork,4,BlockChain
+518,Blockchain general knowledge,cryptocurrencies,Cryptocurrencies,4,BlockChain
+519,Blockchain general knowledge,cryptowallets,Cryptowallets,4,BlockChain
+520,Blockchain general knowledge,cryptography,Cryptography,4,BlockChain
+521,Blockchain general knowledge,consensus-protocols,Consensus protocols,4,BlockChain
+522,Blockchain general knowledge,blockchain-interoperability,Blockchain interoperability,4,BlockChain
+523,Blockchain general knowledge,solana,Solana,3,BlockChain
+524,Blockchain general knowledge,the-open-network,The Open Network,3,BlockChain
+525,Blockchain general knowledge,evm-based,EVM based,4,BlockChain
+526,Blockchain general knowledge,l2-blockchains,L2 blockchains,2,BlockChain
+527,EVM based,ethereum,Ethereum,4,BlockChain
+528,EVM based,polygon,Polygon,4,BlockChain
+529,EVM based,binance-smart-chain,Binance Smart Chain,2,BlockChain
+530,EVM based,gnosis-chain,Gnosis Chain,2,BlockChain
+531,EVM based,huobi-eco-chain,Huobi Eco Chain,2,BlockChain
+532,EVM based,avalanche,Avalanche,2,BlockChain
+533,EVM based,fantom,Fantom,2,BlockChain
+534,EVM based,moonbeam,Moonbeam,2,BlockChain
+535,EVM based,moonriver,Moonriver,2,BlockChain
+536,L2 blockchains,arbitrum,Arbitrum,2,BlockChain
+537,Blockchain Oracles,blockchain-oracles,Blockchain Oracles,4,BlockChain
+538,Blockchain Oracles,hybrid-smart-contracts,Hybrid Smart Contracts,4,BlockChain
+539,Blockchain Oracles,chainlink,Chainlink,4,BlockChain
+540,Blockchain Oracles,oracle-networks,Oracle Networks,4,BlockChain
+541,Smart Contracts,erc-tokens,ERC Tokens,4,BlockChain
+542,Smart Contracts,ides,IDEs,4,BlockChain
+543,Smart Contracts,crypto-faucets,Crypto Faucets,4,BlockChain
+544,Smart Contracts,decentralized-storage,Decentralized Storage,4,BlockChain
+545,Programming Languages,solidity,Solidity,4,BlockChain
+546,Programming Languages,vyper,Vyper,3,BlockChain
+547,Programming Languages,rust,Rust,4,BlockChain
+548,Testing,unit-tests,Unit Tests,4,BlockChain
+549,Testing,integration-tests,Integration Tests,4,BlockChain
+550,Testing,code-coverage,Code Coverage,4,BlockChain
+551,Testing,testing,Testing,4,BlockChain
+552,Deployment,deployment,Deployment,4,BlockChain
+553,Monitoring,monitoring,Monitoring,4,BlockChain
+554,Frameworks,hardhat,Hardhat,4,BlockChain
+555,Frameworks,brownie,Brownie,4,BlockChain
+556,Frameworks,truffle,Truffle,3,BlockChain
+557,Frameworks,foundry,Foundry,3,BlockChain
+558,Security,fuzz-testing,Fuzz Testing,4,BlockChain
+559,Security,static-analysis,Static Analysis,4,BlockChain
+560,Security,common-threat-vectors,Common Threat Vectors,4,BlockChain
+561,Security,source-of-randomness-attacks,Source of Randomness Attacks,4,BlockChain
+562,Security,slither,Slither,4,BlockChain
+563,Security,mythx,Mythx,3,BlockChain
+564,Security,manticore,Manticore,4,BlockChain
+565,Security,echidna,Echidna,3,BlockChain
+566,Management Platforms,openzeppelin,OpenZeppelin,4,BlockChain
+567,Version Control Systems,git,Git,4,BlockChain
+568,Repo Hosting Services,github,GitHub,4,BlockChain
+569,Repo Hosting Services,gitlap,GitLap,3,BlockChain
+570,Repo Hosting Services,bitbucket,Bitbucket,3,BlockChain
+571,FrontEnd Frameworks,react,React,4,BlockChain
+572,FrontEnd Frameworks,angular,Angular,3,BlockChain
+573,FrontEnd Frameworks,vue,Vue,3,BlockChain
+574,dApps,deployment,Deployment,4,BlockChain
+575,dApps,testing,Testing,4,BlockChain
+576,dApps,maintenance,Maintenance,4,BlockChain
+577,dApps,architecture,Architecture,4,BlockChain
+578,dApps,security,Security,4,BlockChain
+579,Applicability,applicability,Applicability,4,BlockChain
+580,Applicability,defi,DeFi,4,BlockChain
+581,Applicability,daos,DAOs,4,BlockChain
+582,Applicability,nfts,NFTs,4,BlockChain
+583,Applicability,payments,Payments,3,BlockChain
+584,Applicability,insurance,Insurance,3,BlockChain
+585,Client libraries,ethersjs,EthersJs,4,BlockChain
+586,Client libraries,web3js,Web3Js,3,BlockChain
+587,Client libraries,moralis,Moralis,3,BlockChain
+588,Client Nodes,besu,Besu,4,BlockChain
+589,Client Nodes,geth,Geth,4,BlockChain
+590,Client Nodes,nethermind,Nethermind,4,BlockChain
+591,Client Nodes,substrate,Substrate,4,BlockChain
+592,Node as a Service,naas,NaaS,4,BlockChain
+593,Node as a Service,alchemy,Alchemy,4,BlockChain
+594,Node as a Service,infura,Infura,4,BlockChain
+595,Node as a Service,moralis,Moralis,3,BlockChain
+596,Node as a Service,quicknode,Quicknode,3,BlockChain
+597,Supporting Languages,python,Python,3,BlockChain
+598,Supporting Languages,javascript,JavaScript,4,BlockChain
+599,Supporting Languages,go,Go,3,BlockChain
+600,Building for Scale,state-and-payment-channels,State and Payment Channels,4,BlockChain
+601,Building for Scale,optimistic-rollups,Optimistic Rollups,4,BlockChain
+602,Building for Scale,fraud-proofs,Fraud Proofs,4,BlockChain
+603,Building for Scale,zero-knowledge-rollups,Zero Knowledge Rollups,4,BlockChain
+604,Building for Scale,zero-knowledge-proof,Zero Knowledge Proof,4,BlockChain
+605,Building for Scale,validium,Validium,4,BlockChain
+606,Building for Scale,sidechains,Sidechains,4,BlockChain
+607,Building for Scale,plasma,Plasma,4,BlockChain
+608,Building for Scale,ethereum,Ethereum ,4,BlockChain
+609,Building for Scale,on-chain-scaling,On-Chain Scaling,4,BlockChain
